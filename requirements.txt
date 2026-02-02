@@ -1,0 +1,13 @@
+opencv-python
+mediapipe
+pyautogui
+matplotlib
+numpy<2
+protobuf<4
+Pillow
+
+# # สร้าง env
+# python -m venv env
+# # เข้า env (สังเกตหน้าบรรทัดจะมีคำว่า (env))
+# .\env\Scripts\activate
+# pip install -r requirements.txt
